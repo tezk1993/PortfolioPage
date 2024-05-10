@@ -1,0 +1,103 @@
+body{
+    font-family: "Chivo",sans-serif;
+    margin:  0 10%;
+}
+h1{
+    font-size: 26px;
+    font-weight: 700;
+    font-family: "Montserrat Alternates",sans-serif;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Expletus Sand",sans-serif;
+}
+p{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Chivo",sans-serif;
+}
+.container{
+    border: 2px solid black;
+    padding:  10px;
+    margin: 10px auto;
+
+}
+
+
+.color_panel{
+    padding: 5px;
+    margin: 20px auto;
+    display: inline-block;
+    min-height: 100px;
+    width: 32%;
+    text-align: center;
+}
+
+.color_examples_containers{
+    padding: 15px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.ivory{
+    background-color: #fcfae7;
+    color: #242423;
+
+}
+.engineering_orange{
+    background-color: #BA2D0B;
+    color: #fdfffc;
+}
+
+.hunyadi_yellow{
+    background-color: #e09f3e;
+    color: #242423;
+
+}
+
+.eerie_black{
+    background-color: #242423;
+    color: #fdfffc;
+}
+
+.cambridge_blue{
+    background-color: #6c9a8b;
+    color: #242423;
+
+}
+/* Font CSS */
+.font_panel{
+    width: 45%;
+    display: inline-block;
+}
+
+.font_label{
+    font-size: 20px;
+    text-decoration: underline;
+}
+.regular{
+    font-style: normal;
+}
+.bold{
+    font-weight: 700;
+}
+
+.italic{
+ font-style: italic;
+}
+
+.expletus{
+    font-family: "Expletus Sand",sans-serif;
+}
+.montserrat{
+    font-family: "Montserrat Alternates",sans-serif;
+}
+.chivo{
+    font-family: "Chivo",sans-serif;
+}
+
+/* Text styles*/
+
+
